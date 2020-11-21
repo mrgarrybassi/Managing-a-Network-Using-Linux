@@ -19,7 +19,7 @@ Amazon.
 
 ## Prepared By:
 
-    Gurkamal Bassi
+    Garry(Gurkamal) Bassi @mrgarrybassi
 
     Sukhveer Sohi
 
